@@ -31,9 +31,53 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+### HTML & CSS:
+```
+<html>
+    <head>
+        <title>
+            textbook
+        </title>
+    <style>
+        h4{
+         color: white;
+         margin-top: 100;
+        }
+        h1{
+            color: black;
+        }
+        h3{
+            color:white;
+        }
+        hr{
+           
+            width:160;
+            border-color: black;
+        }
+        h6{
+            color:white;
+        }
+    </style>
+    </head>
+    <body style="background-color:palevioletred;">
 
+        <center><h4>WINNER OF THE PULIZER PRIZE</h4></center>
+        <br>
+        <br>
+        <center><h1><big>THE</big></h1></center>
+        <center><h1><big>NEW</big></h1></center>
+        <center><h1><big>WORLD</big></h1></center>
+        <center><h3>"IT &nbsp;ALL &nbsp; STARTED </h3></center>
+        <center><h3>WITH  &nbsp;A</h3></center>
+        <center><h3>SIMPLEFLU"</h3></center><hr>
+        <center><h6> PUBLISHED BY</h6></center>
+        <center><h2>PAVITHRA P&nbsp;212223110035</h2></center>
+    </body>
+</html>
+```
 
 ## OUTPUT:
+![image](https://github.com/23007232/cover/assets/139115574/6c1612a4-f285-4275-afc1-66ba4b997ed4)
 
 
 ## RESULT:
