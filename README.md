@@ -71,13 +71,16 @@ Publish the website in the LocalHost.
         <center><h3>WITH  &nbsp;A</h3></center>
         <center><h3>SIMPLEFLU"</h3></center><hr>
         <center><h6> PUBLISHED BY</h6></center>
-        <center><h2>PAVITHRA P&nbsp;212223110035</h2></center>
+        <center><h2>HARI PRASATH R.K &nbsp;212223040055</h2></center>
     </body>
 </html>
 ```
 
 ## OUTPUT:
-![image](https://github.com/23007232/cover/assets/139115574/6c1612a4-f285-4275-afc1-66ba4b997ed4)
+
+![Screenshot 2024-04-29 084310](https://github.com/Hariprasath2023/cover/assets/145207783/16965a3e-d013-4149-b451-7d7a0dbc3c1e)
+
+
 
 
 ## RESULT:
